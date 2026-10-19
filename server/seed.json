@@ -1,0 +1,160 @@
+{
+  "activities": [
+    {
+      "id": "act-plantation-drive",
+      "title": "Monsoon Campus Tree Plantation Drive",
+      "date": "Saturday, Oct 24, 2026",
+      "time": "08:30 AM – 11:30 AM",
+      "location": "North Campus Green Belt (Near Sports Pavilion)",
+      "description": "Join faculty, green club members, and fellow students to plant 200 native saplings. Gloves, trowels, compost, and sapling tree guards are provided.",
+      "capacity": 60,
+      "registeredCount": 42,
+      "category": "Plantation",
+      "organizer": "Campus Eco-Club & Dept of Environmental Studies"
+    },
+    {
+      "id": "act-cleanup-plog",
+      "title": "Campus & Perimeter Zero-Waste Plogging Run",
+      "date": "Wednesday, Oct 28, 2026",
+      "time": "04:30 PM – 06:00 PM",
+      "location": "Starts at University Main Gate Fountain",
+      "description": "Combine fitness and campus stewardship! We run, jog, and walk while collecting stray plastics and sorting them into recyclable bags. Refreshments served.",
+      "capacity": 45,
+      "registeredCount": 38,
+      "category": "Clean-up",
+      "organizer": "Student Sports Council & Green Volunteers"
+    },
+    {
+      "id": "act-ewaste-day",
+      "title": "Autumn Electronics & E-Waste Drop Day",
+      "date": "Friday, Nov 06, 2026",
+      "time": "10:00 AM – 04:00 PM",
+      "location": "Central Student Activity Center (SAC) Atrium",
+      "description": "Bring dead laptop chargers, batteries, discarded wires, broken earphones, and old devices. Certified recyclers ensure non-polluting circular extraction.",
+      "capacity": 100,
+      "registeredCount": 65,
+      "category": "Recycling",
+      "organizer": "IEEE Student Branch & Campus Sustainability Office"
+    },
+    {
+      "id": "act-compost-workshop",
+      "title": "Hands-On Organic Composting & Soil Science Workshop",
+      "date": "Monday, Nov 16, 2026",
+      "time": "02:00 PM – 04:00 PM",
+      "location": "Agro-Compost Shed (Behind Botanical Garden)",
+      "description": "Learn the exact science of carbon-to-nitrogen ratios, aeration, and moisture control. Take home a sample of rich organic compost for your dorm plants!",
+      "capacity": 35,
+      "registeredCount": 29,
+      "category": "Workshop",
+      "organizer": "College Horticulture Division"
+    },
+    {
+      "id": "act-water-walk",
+      "title": "Campus Watershed & Rainwater Cistern Inspection Walk",
+      "date": "Thursday, Nov 26, 2026",
+      "time": "09:00 AM – 10:30 AM",
+      "location": "Begins at Central Library Steps",
+      "description": "An interactive technical tour of our 450,000-litre filtration tanks, bioswales, and recharge wells led by Civil Engineering professors.",
+      "capacity": 40,
+      "registeredCount": 22,
+      "category": "Awareness",
+      "organizer": "Civil & Environmental Engineering Society"
+    },
+    {
+      "id": "act-cycling-parade",
+      "title": "Green Commuter Cycling Rally & Bike Safety Clinic",
+      "date": "Saturday, Dec 05, 2026",
+      "time": "07:30 AM – 09:30 AM",
+      "location": "Main Administrative Quadrangle",
+      "description": "Celebrate clean campus mobility! Enjoy a 5 km campus group ride followed by free bicycle brake adjustments, chain lubing, and helmet checks.",
+      "capacity": 50,
+      "registeredCount": 31,
+      "category": "Transport",
+      "organizer": "Campus Cycling Club & Campus Security"
+    }
+  ],
+  "ideas": [
+    {
+      "id": "idea-1",
+      "title": "Smart Solar-Powered Mobile Charging Benches",
+      "description": "Install 6 weather-proof outdoor study benches with integrated photovoltaic canopies and USB charging ports in the central lawn to encourage outdoor studying without drawing grid power.",
+      "category": "Energy",
+      "expectedBenefit": "Generates estimated 2.4 kWh daily clean electricity while reducing indoor library overcrowding.",
+      "studentName": "Devika Patel (B.Tech Electrical, Year 3)",
+      "submittedAt": "2026-10-08",
+      "status": "Approved",
+      "upvotes": 38
+    },
+    {
+      "id": "idea-2",
+      "title": "Greywater Recycling for Mechanical Workshop Coolants",
+      "description": "Filter treated air conditioning condensate and dormitory greywater through sand bed filters to supply water for landscaping and machinery cooling.",
+      "category": "Water",
+      "expectedBenefit": "Could conserve up to 8,000 litres of clean potable water every working week.",
+      "studentName": "Karan Mehra (Mechanical Eng, Year 4)",
+      "submittedAt": "2026-10-09",
+      "status": "Under Review",
+      "upvotes": 27
+    },
+    {
+      "id": "idea-3",
+      "title": "Campus Food Surplus Redistribution Shelf",
+      "description": "Create a monitored temperature-controlled food pantry where unserved bakery items and pre-packaged cafeteria snacks are made available for late-night student study groups rather than being discarded.",
+      "category": "Waste",
+      "expectedBenefit": "Zero edible food waste while supporting students studying during midterms.",
+      "studentName": "Ananya Sen (Bio-Sciences, Year 2)",
+      "submittedAt": "2026-10-11",
+      "status": "Under Review",
+      "upvotes": 45
+    },
+    {
+      "id": "idea-4",
+      "title": "Dormitory Clothes Swapping & Second-Hand Book Kiosk",
+      "description": "Set up an ongoing physical and digital barter kiosk during end-of-semester move-outs to prevent textbooks, lamps, and clothing from ending up in dumpsters.",
+      "category": "Campus Infrastructure",
+      "expectedBenefit": "Promotes circular economy culture and saves students money on academic supplies.",
+      "studentName": "Siddharth Iyer (Management Studies, Year 3)",
+      "submittedAt": "2026-10-12",
+      "status": "Submitted",
+      "upvotes": 19
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1",
+      "studentName": "Aarav Sharma",
+      "studentEmail": "aarav.s@campus.edu",
+      "activityId": "act-plantation-drive",
+      "activityTitle": "Monsoon Campus Tree Plantation Drive",
+      "title": "Planted 5 Neem & Jamun saplings in North Quad",
+      "description": "Successfully prepped soil pits, mixed vermicompost, and planted 5 indigenous saplings with bamboo protective guards along the jogging path.",
+      "imageUrl": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=800&q=80",
+      "submittedAt": "2026-10-10T10:30:00Z",
+      "isDemoRecord": true
+    },
+    {
+      "id": "contrib-2",
+      "studentName": "Priya Venkatesh",
+      "studentEmail": "priya.v@campus.edu",
+      "activityId": "act-ewaste-day",
+      "activityTitle": "Autumn Electronics & E-Waste Drop Day",
+      "title": "Recovered 14 legacy power supplies & 8 kg computer cables",
+      "description": "Collected discarded peripherals from the second-floor hardware laboratory and segregated lithium battery packs from general circuit boards.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "submittedAt": "2026-10-12T14:15:00Z",
+      "isDemoRecord": true
+    },
+    {
+      "id": "contrib-3",
+      "studentName": "Rohan Deshmukh",
+      "studentEmail": "rohan.d@campus.edu",
+      "activityId": "act-cleanup-plog",
+      "activityTitle": "Campus & Perimeter Zero-Waste Plogging Run",
+      "title": "Cleared 6 kg single-use packaging around lake perimeter",
+      "description": "Formed a 4-person team during Wednesday plogging and cleared plastic bottle caps, snack wrappers, and beverage cartons from the stormwater culvert.",
+      "imageUrl": "https://images.unsplash.com/photo-1618477461853-cf6ed80faba5?auto=format&fit=crop&w=800&q=80",
+      "submittedAt": "2026-10-13T16:45:00Z",
+      "isDemoRecord": true
+    }
+  ]
+}

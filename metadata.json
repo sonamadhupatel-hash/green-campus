@@ -1,0 +1,8 @@
+{
+  "name": "Remix Green Campus | College Sustainability Platform",
+  "description": "A comprehensive digital sustainability and student engagement platform connecting campus environmental initiatives, student participation, and green innovation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
